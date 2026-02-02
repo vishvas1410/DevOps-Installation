@@ -80,7 +80,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 
 ## 📧 Contact  
-For queries or suggestions, reach out via [Email](amitabhdevops2024@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/amitabh-devops).  
+For queries or suggestions, reach out via [Email](vishvaspatel1410@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/vishvas1410).  
 
 
 ---
